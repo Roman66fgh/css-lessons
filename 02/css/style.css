@@ -1,3 +1,9 @@
+<style>
+<link>
+@import url(css/styles.css);
+@import url(css/forms.css);
+</link>
 p {
     color: red;
 }
+</style>
