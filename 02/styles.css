@@ -11,14 +11,14 @@ body {
     background-color: #E1EDEB;
 }
 h1 {
-    font-family: "Palatino Linotype", Baskerville, serif;
+    font-family: "Kyrale", Baskerville, serif;
     font-weight: normal;
     color: #6A94CC;
     font-size: 3em;
     margin: 0;
 }
 p, address {
-    font-family: "Palatino Linotype", Baskerville, serif;
+    font-family: "Kyrale", Baskerville, serif;
     font-size: 1.25em;
     color: #616161;
     line-height: 150%;
@@ -41,4 +41,9 @@ intro {
     font-size: 1.2em;
     margin-left: 0;
     margin-bottom: 25px;
+}
+h1 {
+    color: #6A94CC;
+    font-size: 3em;
+    margin: 0;
 }
