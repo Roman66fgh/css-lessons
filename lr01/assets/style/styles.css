@@ -1,0 +1,37 @@
+.body{
+    margin:0;
+}
+.header {
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    padding:24px;
+}
+.container {
+    width:556px;
+    background:#F8F8F8;
+    min-height: 20px;
+    border-radius: 24px;
+    
+}
+input[type="search"] {
+    border:none;
+    outline:none;
+    width:55px;
+    vertical-align:middle;
+    border-radius:24px;
+    background: #F8F8F8;
+    height:40px;
+    margin:0;
+    padding:0;
+}
+input[type="submit"] {
+    width:40px;
+    height:40px;
+    margin:6px 7px 6px 0;
+    border:none;
+    border-radius:72px;
+    background:url(../images/Group6.png) no-repeat;
+}
+
+
