@@ -163,6 +163,19 @@ line-height: 14px;
 letter-spacing: 0.8px;
 color: #39912E;
 }
-
-
-
+.Mask {
+    display:flex;
+    background:transparent;
+    padding:24px;
+    margin:-281px 50px 5px 300px;
+}
+.BitmapCopy {
+width:664px;
+height:390px;
+background: #FFFFFF;
+border-radius: 4px 4px 0px 0px;
+}
+.add_circle-material {
+background: #FFFFFF;
+transform: rotate(45deg);
+}
